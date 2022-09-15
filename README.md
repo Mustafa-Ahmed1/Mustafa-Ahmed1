@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">An android developer from Iraq</h3>
 
-- 🌱 I’m currently focusing on **Android Jetpack**
+- 🌱 I’m currently learning advanced android development topics from **The Chance** internship
 
 - 📫 How to reach me **mstfyjmalalden@gmail.com**
 
