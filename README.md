@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">An android developer from Iraq</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-ahmed1&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-ahmed1" /> </p>
-
 - 🌱 I’m currently focusing on **Android Jetpack**
 
 - 📫 How to reach me **mstfyjmalalden@gmail.com**
